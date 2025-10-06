@@ -82,6 +82,8 @@ gen-src/eqDecInstances.ml
 gen-src/eqDecInstances.mli
 gen-src/equalities.ml
 gen-src/equalities.mli
+gen-src/equality0.ml
+gen-src/equality0.mli
 gen-src/extractable.ml
 gen-src/extractable.mli
 gen-src/fMapAVL.ml
@@ -235,7 +237,6 @@ gen-src/universes0.ml
 gen-src/universes0.mli
 gen-src/wf.ml
 gen-src/wf.mli
-
 
 gen-src/metarocq_template_plugin.mlpack
 
